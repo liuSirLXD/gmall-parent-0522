@@ -21,7 +21,7 @@ public class SpuSaleAttrValue extends BaseEntity {
 	
 	private static final long serialVersionUID = 1L;
 	
-	@ApiModelProperty(value = "商品id")
+	@ApiModelProperty(value = "商品id111")
 	@TableField("spu_id")
 	private Long spuId;
 
